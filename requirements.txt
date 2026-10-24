@@ -1,0 +1,14 @@
+# Python 3.13
+scrapy==2.13.3
+nltk==3.9.4
+pandas==2.3.3
+numpy==2.3.5
+torch==2.11.0
+transformers==5.5.4
+sentence-transformers==5.4.1
+qdrant-client==1.17.1
+rank-bm25==0.2.2
+requests==2.32.5
+streamlit==1.51.0
+tqdm==4.67.3
+deepeval==4.0.2   # faithfulness evaluation (notebook only)
